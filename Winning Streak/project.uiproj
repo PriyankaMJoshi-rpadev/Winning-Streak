@@ -1,0 +1,6 @@
+{
+  "Name": "Winning Streak",
+  "ProjectType": "Process",
+  "Description": "Calculate Number of victories by Wnners",
+  "MainFile": "Main.xaml"
+}
